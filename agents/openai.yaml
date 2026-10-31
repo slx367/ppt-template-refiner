@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 模板改稿与技术表达"
+  short_description: "复用已有模板，重排内容、讲清技术关键，并检查导航与可编辑交付"
+  default_prompt: "请使用 $ppt-template-refiner，根据现有 PPT 模板和修改要求完成改稿。"
